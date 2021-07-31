@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4331480e-53c2-46d2-95be-2cf93f5fb387" name="Changes" comment="Testes" />
+    <list default="true" id="4331480e-53c2-46d2-95be-2cf93f5fb387" name="Changes" comment="Teste">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Test/Pessoa.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Test/Pessoa.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -120,7 +123,28 @@
       <option name="project" value="LOCAL" />
       <updated>1627705144454</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Teste">
+      <created>1627705301705</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1627705301706</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Teste">
+      <created>1627705314127</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1627705314127</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Teste">
+      <created>1627705369861</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1627705369861</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,12 +163,14 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="git add &quot;adicinar Fakih&quot;" />
     <MESSAGE value="Testes de como não alterar o CPF" />
     <MESSAGE value="git add &quot;Testes de como não alterar o CPF&quot;" />
     <MESSAGE value="Testes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Testes" />
+    <MESSAGE value="Teste" />
+    <option name="LAST_COMMIT_MESSAGE" value="Teste" />
   </component>
 </project>
