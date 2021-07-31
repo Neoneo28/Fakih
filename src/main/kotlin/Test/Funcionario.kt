@@ -2,9 +2,10 @@ package Test
 
 import java.math.BigDecimal
 
-class Funcionario(
-    override val Nome: String,
-    override val CPF: String,
+abstract class Funcionario(
+    Nome: String,
+    CPF: String,
     val Salario: BigDecimal
 ) : Pessoa(Nome, CPF) {
+    abstract fun calculoAuxilio();
 }
