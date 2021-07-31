@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4331480e-53c2-46d2-95be-2cf93f5fb387" name="Changes" comment="git add &quot;adicinar Fakih&quot;">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Test/Pessoa.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Test/Pessoa.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Test/PessoaKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Test/PessoaKt.class" afterDir="false" />
-    </list>
+    <list default="true" id="4331480e-53c2-46d2-95be-2cf93f5fb387" name="Changes" comment="Testes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,7 +99,28 @@
       <option name="project" value="LOCAL" />
       <updated>1627704488782</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="git add &quot;Testes de como não alterar o CPF&quot;">
+      <created>1627705036827</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1627705036827</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Testes">
+      <created>1627705134489</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1627705134489</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Testes">
+      <created>1627705144454</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1627705144454</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -125,6 +142,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="git add &quot;adicinar Fakih&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="git add &quot;adicinar Fakih&quot;" />
+    <MESSAGE value="Testes de como não alterar o CPF" />
+    <MESSAGE value="git add &quot;Testes de como não alterar o CPF&quot;" />
+    <MESSAGE value="Testes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testes" />
   </component>
 </project>
