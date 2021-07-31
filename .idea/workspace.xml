@@ -5,15 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4331480e-53c2-46d2-95be-2cf93f5fb387" name="Changes" comment="Teste">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Test/Analista.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Test/BancoTeste/ImprimeRelatorioFuncionario.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Test/BancoTeste/TesteFuncionarioGerente.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Test/Gerente.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Test/BancoTeste/TesteAutenticacao.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Test/BancoTeste/TesteCliente.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Test/Cliente.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Test/Logavel.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Test/BancoTeste/TesteFuncionario.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Test/BancoTeste/TesteFuncionarioAnalista.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Test/Funcionario.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Test/Funcionario.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Test/Analista.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Test/Analista.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Test/BancoTeste/TesteFuncionarioGerente.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Test/BancoTeste/TesteFuncionarioGerente.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Test/Gerente.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Test/Gerente.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/META-INF/Fakih.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/Fakih.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Test/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Test/Pessoa.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +26,7 @@
         <option value="Kotlin Data Class" />
         <option value="Kotlin Enum" />
         <option value="Kotlin File" />
+        <option value="Kotlin Interface" />
         <option value="Kotlin Class" />
       </list>
     </option>
@@ -54,9 +55,9 @@
       <recent name="C:\Users\fakih\IdeaProjects\Fakih" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.TesteFuncionarioGerenteKt">
-    <configuration name="TesteBancotKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test.BancoTeste.TesteBancotKt" />
+  <component name="RunManager" selected="Kotlin.TesteClienteKt">
+    <configuration name="TesteClienteKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.BancoTeste.TesteClienteKt" />
       <module name="Fakih" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -103,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TesteClienteKt" />
         <item itemvalue="Kotlin.TesteFuncionarioGerenteKt" />
         <item itemvalue="Kotlin.TesteFuncionarioAnalistaKt" />
         <item itemvalue="Kotlin.TestePessoaKt" />
         <item itemvalue="Kotlin.TesteClienteTipoEnumKt" />
-        <item itemvalue="Kotlin.TesteBancotKt" />
       </list>
     </recent_temporary>
   </component>
@@ -239,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627751370675</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Teste">
+      <created>1627756520176</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1627756520176</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

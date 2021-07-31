@@ -7,8 +7,10 @@ import Test.Pessoa
 import java.math.BigDecimal
 
 fun main() {
-    val Maria = Gerente("Maria Rodriguez", "548.666.584-45",  5000.0)
+    val Maria = Gerente("Maria Rosário", "548.666.584-45",  5000.0, "Senha123")
 
     ImprimeRelatorioFuncionario.Imprime(Maria)
+
+    TesteAutenticacao().antentica(Maria)
 }
 
