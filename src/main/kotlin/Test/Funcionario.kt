@@ -1,11 +1,17 @@
 package Test
 
-import java.math.BigDecimal
-
 abstract class Funcionario(
     Nome: String,
     CPF: String,
-    val Salario: BigDecimal
+    val Salario: Double,
 ) : Pessoa(Nome, CPF) {
-    abstract fun calculoAuxilio();
+    protected abstract fun calculoAuxilio() : Double
+
+    override fun toString(): String = """
+        Nome: $Nome 
+        CPF: $CPF 
+        Salario: $Salario
+        Auxilio: ${calculoAuxilio()}
+    """.trimIndent()
+
 }
