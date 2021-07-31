@@ -5,10 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4331480e-53c2-46d2-95be-2cf93f5fb387" name="Changes" comment="Teste">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Test/BancoTeste/TesteClienteTipoEnum.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Test/ClienteTipo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Test/BancoTeste/TesteFuncionario.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Test/BancoTeste/TestePessoa.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Test/Funcionario.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Test/BancoTeste/Bancoteste.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Test/BancoTeste/TesteBancot.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Test/Pessoa.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Test/Pessoa.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/META-INF/Fakih.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/Fakih.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test/Pessoa$Endereço.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Test/Pessoa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test/PessoaKt.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,9 +25,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin Data Class" />
         <option value="Kotlin Enum" />
+        <option value="Kotlin Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -37,6 +44,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="GitIgnore" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -45,14 +53,7 @@
       <recent name="C:\Users\fakih\IdeaProjects\Fakih" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.TesteClienteTipoEnumKt">
-    <configuration name="BancotesteKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test.BancoTeste.BancotesteKt" />
-      <module name="Fakih" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.TesteFuncionarioKt">
     <configuration name="PessoaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test.PessoaKt" />
       <module name="Fakih" />
@@ -60,8 +61,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TesteBancotKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.BancoTeste.TesteBancotKt" />
+      <module name="Fakih" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TesteClienteTipoEnumKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test.BancoTeste.TesteClienteTipoEnumKt" />
+      <module name="Fakih" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteFuncionarioKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.BancoTeste.TesteFuncionarioKt" />
+      <module name="Fakih" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestePessoaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.BancoTeste.TestePessoaKt" />
       <module name="Fakih" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,8 +102,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TesteFuncionarioKt" />
+        <item itemvalue="Kotlin.TestePessoaKt" />
         <item itemvalue="Kotlin.TesteClienteTipoEnumKt" />
-        <item itemvalue="Kotlin.BancotesteKt" />
+        <item itemvalue="Kotlin.TesteBancotKt" />
         <item itemvalue="Kotlin.PessoaKt" />
       </list>
     </recent_temporary>
@@ -193,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627741069397</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Teste">
+      <created>1627743000825</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1627743000825</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
